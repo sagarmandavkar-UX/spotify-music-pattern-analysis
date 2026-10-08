@@ -1,0 +1,16 @@
+{
+  "genre_tag_rows": 114000,
+  "unique_tracks": 89741,
+  "genre_labels": 114,
+  "duplicate_track_rows": 24259,
+  "missing_metadata_cells": 3,
+  "mean_popularity": 33.19874973534951,
+  "high_popularity_threshold": 60.0,
+  "high_popularity_track_count": 9807,
+  "strongest_audio_correlation_feature": "instrumentalness",
+  "strongest_audio_correlation": -0.12441480434583937,
+  "selected_clusters": 7,
+  "selected_silhouette": 0.1949205107187686,
+  "pca_variance_explained": 0.47986291808941905,
+  "caveat": "Popularity is a snapshot score; this dataset does not contain historical trend observations or causal evidence."
+}
